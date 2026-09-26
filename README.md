@@ -1,2 +1,2 @@
-# Lavretsov_Ivan_CourseProject
+# Лаврецов Иван ИУК5-53Б
 Data models course project
